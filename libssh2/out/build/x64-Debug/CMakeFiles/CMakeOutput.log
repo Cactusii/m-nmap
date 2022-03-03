@@ -1,0 +1,203 @@
+The system is: Windows - 10.0.22471 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.29.30136 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.29.30136.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_20a23 && [1/2] Building C object CMakeFiles\cmTC_20a23.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_20a23.exe
+
+
+
+Determining if the function EVP_aes_128_ctr exists passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4f10b && [1/2] Building C object CMakeFiles\cmTC_4f10b.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_4f10b.exe
+
+
+
+Determining if files inttypes.h exist passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_9daad && [1/2] Building C object CMakeFiles\cmTC_9daad.dir\HAVE_INTTYPES_H.c.obj
+[2/2] Linking C executable cmTC_9daad.exe
+
+
+
+Determining if files stdlib.h exist passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d6683 && [1/2] Building C object CMakeFiles\cmTC_d6683.dir\HAVE_STDLIB_H.c.obj
+[2/2] Linking C executable cmTC_d6683.exe
+
+
+
+Determining if files windows.h exist passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a3a66 && [1/2] Building C object CMakeFiles\cmTC_a3a66.dir\HAVE_WINDOWS_H.c.obj
+[2/2] Linking C executable cmTC_a3a66.exe
+
+
+
+Determining if files ws2tcpip.h exist passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b787a && [1/2] Building C object CMakeFiles\cmTC_b787a.dir\HAVE_WS2TCPIP_H.c.obj
+[2/2] Linking C executable cmTC_b787a.exe
+
+
+
+Determining if files winsock2.h exist passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_bbd79 && [1/2] Building C object CMakeFiles\cmTC_bbd79.dir\HAVE_WINSOCK2_H.c.obj
+[2/2] Linking C executable cmTC_bbd79.exe
+
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4e5f1 && [1/2] Building C object CMakeFiles\cmTC_4e5f1.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_4e5f1.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_758fc && [1/2] Building C object CMakeFiles\cmTC_758fc.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_758fc.exe
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4691c && [1/2] Building C object CMakeFiles\cmTC_4691c.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_4691c.exe
+
+
+
+Determining size of long long passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_cee76 && [1/2] Building C object CMakeFiles\cmTC_cee76.dir\LONGLONG.c.obj
+[2/2] Linking C executable cmTC_cee76.exe
+
+
+
+Determining if the strtoll exist passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_f4af6 && [1/2] Building C object CMakeFiles\cmTC_f4af6.dir\CheckSymbolExists.c.obj
+[2/2] Linking C executable cmTC_f4af6.exe
+
+
+File C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strtoll
+  return ((int*)(&strtoll))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the snprintf exist passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_7d6f2 && [1/2] Building C object CMakeFiles\cmTC_7d6f2.dir\CheckSymbolExists.c.obj
+[2/2] Linking C executable cmTC_7d6f2.exe
+
+
+File C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef snprintf
+  return ((int*)(&snprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the function socket exists in the ws2_32 passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d77a0 && [1/2] Building C object CMakeFiles\cmTC_d77a0.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_d77a0.exe
+
+
+
+Determining if the function select exists in the ws2_32 passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_05105 && [1/2] Building C object CMakeFiles\cmTC_05105.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_05105.exe
+
+
+
+Determining if the function inet_addr exists in the ws2_32 passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_3f8ca && [1/2] Building C object CMakeFiles\cmTC_3f8ca.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_3f8ca.exe
+
+
+
+Performing C SOURCE FILE Test HAVE_IOCTLSOCKET succeeded with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_635d5 && [1/2] Building C object CMakeFiles\cmTC_635d5.dir\src.c.obj
+[2/2] Linking C executable cmTC_635d5.exe
+
+
+Source file was:
+/* ioctlsocket test (Windows) */
+#undef inline
+#ifndef WIN32_LEAN_AND_MEAN
+#define WIN32_LEAN_AND_MEAN
+#endif
+
+#include <windows.h>
+#include <winsock2.h>
+
+int main()
+{
+    SOCKET sd;
+    unsigned long flags = 0;
+    sd = socket(0, 0, 0);
+    ioctlsocket(sd, FIONBIO, &flags);
+}

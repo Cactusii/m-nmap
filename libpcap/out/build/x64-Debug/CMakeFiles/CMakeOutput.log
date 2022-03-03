@@ -1,0 +1,160 @@
+The system is: Windows - 10.0.22471 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.29.30136 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.29.30136.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.29.30136 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.29.30136.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_620ed && [1/2] Building C object CMakeFiles\cmTC_620ed.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_620ed.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_6b265 && [1/2] Building CXX object CMakeFiles\cmTC_6b265.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_6b265.exe
+
+
+
+Determining if the include file inttypes.h exists passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_af3ce && [1/2] Building C object CMakeFiles\cmTC_af3ce.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_af3ce.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4a0c5 && [1/2] Building C object CMakeFiles\cmTC_4a0c5.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_4a0c5.exe
+
+
+
+Determining if the include file limits.h exists passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_0ff0a && [1/2] Building C object CMakeFiles\cmTC_0ff0a.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_0ff0a.exe
+
+
+
+Determining if the function strerror exists passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_92903 && [1/2] Building C object CMakeFiles\cmTC_92903.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_92903.exe
+
+
+
+Determining if the function strerror_s exists passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ff6e5 && [1/2] Building C object CMakeFiles\cmTC_ff6e5.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_ff6e5.exe
+
+
+
+Determining if the getaddrinfo exist passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_bfce7 && [1/2] Building C object CMakeFiles\cmTC_bfce7.dir\CheckSymbolExists.c.obj
+[2/2] Linking C executable cmTC_bfce7.exe
+
+
+File C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <winsock2.h>
+#include <ws2tcpip.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getaddrinfo
+  return ((int*)(&getaddrinfo))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b07db && [1/2] Building C object CMakeFiles\cmTC_b07db.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_b07db.exe
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4c2ce && [1/2] Building C object CMakeFiles\cmTC_4c2ce.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_4c2ce.exe
+
+
+
+Determining size of struct sockaddr_storage passed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5a336 && [1/2] Building C object CMakeFiles\cmTC_5a336.dir\STRUCT_SOCKADDR_STORAGE.c.obj
+[2/2] Linking C executable cmTC_5a336.exe
+
+
+
+Performing C SOURCE FILE Test wd4646 succeeded with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libpcap/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2cc9f && [1/2] Building C object CMakeFiles\cmTC_2cc9f.dir\src.c.obj
+[2/2] Linking C executable cmTC_2cc9f.exe
+
+
+Source file was:
+int main(void) { return 0; }

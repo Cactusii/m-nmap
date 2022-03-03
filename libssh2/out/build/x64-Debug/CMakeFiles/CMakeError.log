@@ -1,0 +1,295 @@
+Determining if files unistd.h exist failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_f80c9 && [1/2] Building C object CMakeFiles\cmTC_f80c9.dir\HAVE_UNISTD_H.c.obj
+FAILED: CMakeFiles/cmTC_f80c9.dir/HAVE_UNISTD_H.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W4  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_f80c9.dir\HAVE_UNISTD_H.c.obj /FdCMakeFiles\cmTC_f80c9.dir\ /FS -c C:\Users\lmx40_qjy9utl\Documents\Cproj\vs\nmap-master\libssh2\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_UNISTD_H.c
+C:\Users\lmx40_qjy9utl\Documents\Cproj\vs\nmap-master\libssh2\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_UNISTD_H.c(2): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source:
+/* */
+#include <unistd.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/select.h exist failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_671d0 && [1/2] Building C object CMakeFiles\cmTC_671d0.dir\HAVE_SYS_SELECT_H.c.obj
+FAILED: CMakeFiles/cmTC_671d0.dir/HAVE_SYS_SELECT_H.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W4  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_671d0.dir\HAVE_SYS_SELECT_H.c.obj /FdCMakeFiles\cmTC_671d0.dir\ /FS -c C:\Users\lmx40_qjy9utl\Documents\Cproj\vs\nmap-master\libssh2\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_SYS_SELECT_H.c
+C:\Users\lmx40_qjy9utl\Documents\Cproj\vs\nmap-master\libssh2\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_SYS_SELECT_H.c(2): fatal error C1083: 无法打开包括文件: “sys/select.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source:
+/* */
+#include <sys/select.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/uio.h exist failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e5a4b && [1/2] Building C object CMakeFiles\cmTC_e5a4b.dir\HAVE_SYS_UIO_H.c.obj
+FAILED: CMakeFiles/cmTC_e5a4b.dir/HAVE_SYS_UIO_H.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W4  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_e5a4b.dir\HAVE_SYS_UIO_H.c.obj /FdCMakeFiles\cmTC_e5a4b.dir\ /FS -c C:\Users\lmx40_qjy9utl\Documents\Cproj\vs\nmap-master\libssh2\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_SYS_UIO_H.c
+C:\Users\lmx40_qjy9utl\Documents\Cproj\vs\nmap-master\libssh2\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_SYS_UIO_H.c(2): fatal error C1083: 无法打开包括文件: “sys/uio.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source:
+/* */
+#include <sys/uio.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/socket.h exist failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1e8bd && [1/2] Building C object CMakeFiles\cmTC_1e8bd.dir\HAVE_SYS_SOCKET_H.c.obj
+FAILED: CMakeFiles/cmTC_1e8bd.dir/HAVE_SYS_SOCKET_H.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W4  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_1e8bd.dir\HAVE_SYS_SOCKET_H.c.obj /FdCMakeFiles\cmTC_1e8bd.dir\ /FS -c C:\Users\lmx40_qjy9utl\Documents\Cproj\vs\nmap-master\libssh2\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_SYS_SOCKET_H.c
+C:\Users\lmx40_qjy9utl\Documents\Cproj\vs\nmap-master\libssh2\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_SYS_SOCKET_H.c(2): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source:
+/* */
+#include <sys/socket.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/ioctl.h exist failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5e80a && [1/2] Building C object CMakeFiles\cmTC_5e80a.dir\HAVE_SYS_IOCTL_H.c.obj
+FAILED: CMakeFiles/cmTC_5e80a.dir/HAVE_SYS_IOCTL_H.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W4  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_5e80a.dir\HAVE_SYS_IOCTL_H.c.obj /FdCMakeFiles\cmTC_5e80a.dir\ /FS -c C:\Users\lmx40_qjy9utl\Documents\Cproj\vs\nmap-master\libssh2\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_SYS_IOCTL_H.c
+C:\Users\lmx40_qjy9utl\Documents\Cproj\vs\nmap-master\libssh2\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_SYS_IOCTL_H.c(2): fatal error C1083: 无法打开包括文件: “sys/ioctl.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source:
+/* */
+#include <sys/ioctl.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/time.h exist failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d4fd0 && [1/2] Building C object CMakeFiles\cmTC_d4fd0.dir\HAVE_SYS_TIME_H.c.obj
+FAILED: CMakeFiles/cmTC_d4fd0.dir/HAVE_SYS_TIME_H.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W4  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_d4fd0.dir\HAVE_SYS_TIME_H.c.obj /FdCMakeFiles\cmTC_d4fd0.dir\ /FS -c C:\Users\lmx40_qjy9utl\Documents\Cproj\vs\nmap-master\libssh2\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_SYS_TIME_H.c
+C:\Users\lmx40_qjy9utl\Documents\Cproj\vs\nmap-master\libssh2\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_SYS_TIME_H.c(2): fatal error C1083: 无法打开包括文件: “sys/time.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source:
+/* */
+#include <sys/time.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/un.h exist failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_6ff0d && [1/2] Building C object CMakeFiles\cmTC_6ff0d.dir\HAVE_SYS_UN_H.c.obj
+FAILED: CMakeFiles/cmTC_6ff0d.dir/HAVE_SYS_UN_H.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W4  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_6ff0d.dir\HAVE_SYS_UN_H.c.obj /FdCMakeFiles\cmTC_6ff0d.dir\ /FS -c C:\Users\lmx40_qjy9utl\Documents\Cproj\vs\nmap-master\libssh2\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_SYS_UN_H.c
+C:\Users\lmx40_qjy9utl\Documents\Cproj\vs\nmap-master\libssh2\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_SYS_UN_H.c(2): fatal error C1083: 无法打开包括文件: “sys/un.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source:
+/* */
+#include <sys/un.h>
+
+
+int main(void){return 0;}
+
+Determining if the function gettimeofday exists failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5b730 && [1/2] Building C object CMakeFiles\cmTC_5b730.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_5b730.exe
+FAILED: cmTC_5b730.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_5b730.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_5b730.dir\CheckFunctionExists.c.obj  /out:cmTC_5b730.exe /implib:cmTC_5b730.lib /pdb:cmTC_5b730.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_5b730.dir\CheckFunctionExists.c.obj /out:cmTC_5b730.exe /implib:cmTC_5b730.lib /pdb:cmTC_5b730.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_5b730.dir/intermediate.manifest CMakeFiles\cmTC_5b730.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: 无法解析的外部符号 gettimeofday，函数 main 中引用了该符号
+cmTC_5b730.exe : fatal error LNK1120: 1 个无法解析的外部命令
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the memset_s exist failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_7546f && [1/2] Building C object CMakeFiles\cmTC_7546f.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_7546f.dir/CheckSymbolExists.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W4  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_7546f.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_7546f.dir\ /FS -c CheckSymbolExists.c
+CheckSymbolExists.c(8): error C2065: “memset_s”: 未声明的标识符
+ninja: build stopped: subcommand failed.
+
+
+File C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef memset_s
+  return ((int*)(&memset_s))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the function poll exists failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_6d9ad && [1/2] Building C object CMakeFiles\cmTC_6d9ad.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_6d9ad.exe
+FAILED: cmTC_6d9ad.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_6d9ad.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_6d9ad.dir\CheckFunctionExists.c.obj  /out:cmTC_6d9ad.exe /implib:cmTC_6d9ad.lib /pdb:cmTC_6d9ad.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_6d9ad.dir\CheckFunctionExists.c.obj /out:cmTC_6d9ad.exe /implib:cmTC_6d9ad.lib /pdb:cmTC_6d9ad.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_6d9ad.dir/intermediate.manifest CMakeFiles\cmTC_6d9ad.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: 无法解析的外部符号 poll，函数 main 中引用了该符号
+cmTC_6d9ad.exe : fatal error LNK1120: 1 个无法解析的外部命令
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function socket exists failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b41fa && [1/2] Building C object CMakeFiles\cmTC_b41fa.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_b41fa.exe
+FAILED: cmTC_b41fa.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b41fa.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_b41fa.dir\CheckFunctionExists.c.obj  /out:cmTC_b41fa.exe /implib:cmTC_b41fa.lib /pdb:cmTC_b41fa.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_b41fa.dir\CheckFunctionExists.c.obj /out:cmTC_b41fa.exe /implib:cmTC_b41fa.lib /pdb:cmTC_b41fa.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_b41fa.dir/intermediate.manifest CMakeFiles\cmTC_b41fa.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: 无法解析的外部符号 socket，函数 main 中引用了该符号
+cmTC_b41fa.exe : fatal error LNK1120: 1 个无法解析的外部命令
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function socket exists in the socket failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_f121d && [1/2] Building C object CMakeFiles\cmTC_f121d.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_f121d.exe
+FAILED: cmTC_f121d.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_f121d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_f121d.dir\CheckFunctionExists.c.obj  /out:cmTC_f121d.exe /implib:cmTC_f121d.lib /pdb:cmTC_f121d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  socket.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_f121d.dir\CheckFunctionExists.c.obj /out:cmTC_f121d.exe /implib:cmTC_f121d.lib /pdb:cmTC_f121d.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console socket.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_f121d.dir/intermediate.manifest CMakeFiles\cmTC_f121d.dir/manifest.res" failed (exit code 1104) with the following output:
+LINK : fatal error LNK1104: 无法打开文件“socket.lib”
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function select exists failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_530ab && [1/2] Building C object CMakeFiles\cmTC_530ab.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_530ab.exe
+FAILED: cmTC_530ab.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_530ab.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_530ab.dir\CheckFunctionExists.c.obj  /out:cmTC_530ab.exe /implib:cmTC_530ab.lib /pdb:cmTC_530ab.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_530ab.dir\CheckFunctionExists.c.obj /out:cmTC_530ab.exe /implib:cmTC_530ab.lib /pdb:cmTC_530ab.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_530ab.dir/intermediate.manifest CMakeFiles\cmTC_530ab.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: 无法解析的外部符号 select，函数 main 中引用了该符号
+cmTC_530ab.exe : fatal error LNK1120: 1 个无法解析的外部命令
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function inet_addr exists failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_10acb && [1/2] Building C object CMakeFiles\cmTC_10acb.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_10acb.exe
+FAILED: cmTC_10acb.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_10acb.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_10acb.dir\CheckFunctionExists.c.obj  /out:cmTC_10acb.exe /implib:cmTC_10acb.lib /pdb:cmTC_10acb.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_10acb.dir\CheckFunctionExists.c.obj /out:cmTC_10acb.exe /implib:cmTC_10acb.lib /pdb:cmTC_10acb.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_10acb.dir/intermediate.manifest CMakeFiles\cmTC_10acb.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: 无法解析的外部符号 inet_addr，函数 main 中引用了该符号
+cmTC_10acb.exe : fatal error LNK1120: 1 个无法解析的外部命令
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function inet_addr exists in the nsl failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_34897 && [1/2] Building C object CMakeFiles\cmTC_34897.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_34897.exe
+FAILED: cmTC_34897.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_34897.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_34897.dir\CheckFunctionExists.c.obj  /out:cmTC_34897.exe /implib:cmTC_34897.lib /pdb:cmTC_34897.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  nsl.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_34897.dir\CheckFunctionExists.c.obj /out:cmTC_34897.exe /implib:cmTC_34897.lib /pdb:cmTC_34897.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console nsl.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_34897.dir/intermediate.manifest CMakeFiles\cmTC_34897.dir/manifest.res" failed (exit code 1104) with the following output:
+LINK : fatal error LNK1104: 无法打开文件“nsl.lib”
+ninja: build stopped: subcommand failed.
+
+
+
+Performing C SOURCE FILE Test HAVE_O_NONBLOCK failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_9e85c && [1/2] Building C object CMakeFiles\cmTC_9e85c.dir\src.c.obj
+FAILED: CMakeFiles/cmTC_9e85c.dir/src.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo -DHAVE_O_NONBLOCK  /DWIN32 /D_WINDOWS /W4  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_9e85c.dir\src.c.obj /FdCMakeFiles\cmTC_9e85c.dir\ /FS -c src.c
+src.c(3): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+#include <sys/types.h>
+#include <unistd.h>
+#include <fcntl.h>
+
+#if defined(sun) || defined(__sun__) || defined(__SUNPRO_C) || defined(__SUNPRO_CC)
+# if defined(__SVR4) || defined(__srv4__)
+#  define PLATFORM_SOLARIS
+# else
+#  define PLATFORM_SUNOS4
+# endif
+#endif
+#if (defined(_AIX) || defined(__xlC__)) && !defined(_AIX41)
+# define PLATFORM_AIX_V3
+#endif
+
+#if defined(PLATFORM_SUNOS4) || defined(PLATFORM_AIX_V3) || defined(__BEOS__)
+#error "O_NONBLOCK does not work on this platform"
+#endif
+
+int main()
+{
+    int socket;
+    int flags = fcntl(socket, F_SETFL, flags | O_NONBLOCK);
+}
+Performing C SOURCE FILE Test HAVE_FIONBIO failed with the following output:
+Change Dir: C:/Users/lmx40_qjy9utl/Documents/Cproj/vs/nmap-master/libssh2/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_0c98d && [1/2] Building C object CMakeFiles\cmTC_0c98d.dir\src.c.obj
+FAILED: CMakeFiles/cmTC_0c98d.dir/src.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo -DHAVE_FIONBIO  /DWIN32 /D_WINDOWS /W4  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_0c98d.dir\src.c.obj /FdCMakeFiles\cmTC_0c98d.dir\ /FS -c src.c
+src.c(2): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+/* FIONBIO test (old-style unix) */
+#include <unistd.h>
+#include <stropts.h>
+
+int main()
+{
+    int socket;
+    int flags = ioctl(socket, FIONBIO, &flags);
+}
